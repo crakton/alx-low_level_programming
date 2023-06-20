@@ -1,4 +1,4 @@
-#include "main.h";
+#include "main.h"
 /**
  * @main -print _putchar
  * @return 0 on success
