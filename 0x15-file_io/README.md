@@ -2,11 +2,10 @@
 **0x15. C - File I/O**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+*from Jrcity to crakton* 
+*@redemptionjonathan1@gmail.com*
 
-Email: *wendymunyasi@gmail.com*
 
-Tel: *+254707240068.*
 
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
@@ -44,6 +43,3 @@ What is the difference between a function and a system call.
 * **6. Real programmers can write assembly code in any language** - Write a 64-bit program in assembly that prints `Hello, Holberton`, followed by a new line. - `101-hello_holberton.asm`.
 
 
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
